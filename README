@@ -1,8 +1,2 @@
 Hola, este es un pequeño repo que arme para subir algunas explicaciones sobre pandas.
-Aun que secretamente lo estoy usando para aprender git.
-Mejor digamos que estoy matando dos pajaros de un tiro.
-Ahora estoy en otro repo y en otra rama. Estoy haciendo muchas pruebas.
-Probando git merge --squash. Voy a mergear copia a copia2 y ver que pasa.
-Probando cherry-picking.
-Sigo probando cosas. Este cambio es para ver que hace git diff --word-diff y pull request.
-Pruebo como cerrar una pull request y como hacer un merge con rebase o squash.
+También lo estoy usando para aprender git bien.
